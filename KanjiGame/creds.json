@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kanjigame",
+  "private_key_id": "618b66e9950e24ba746e7b7b7d2d59830ebe16d4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfOwtCcSNY/yK6\nN5ZXXL3zudgcOQN9S3NS9MYIQOKD0QbvafQyT3DgspmkMXAd2zaGHwEeabRA9Nm0\n+Kerb82FCr70+LIP5tCkTuo4bv5MxMQTtSPhNciJ6qhWIQzY6Xut6lQiiISeIt0K\nwJYuZS8ZlIbpt6z7z/pKDyY63OmJIjUxCpvMd8R6zNNBExby2d5FCsM2sux5V7Og\n1ky1tpQcg56QXjsy4Q/PePVV6uxScm/IcqduukyBi54EK9oslxTkFkJBIZgKG5du\nq0wDiDa4Uc5Hkbq5u5bf80UojSJe6V/JhNM3iHaDpNum2ndBXRVqsP2B9gjOhgG+\n8Hlg2K4JAgMBAAECggEAHdpV5CR14gX6DUXidiZx71vazyi/aGHPDLitRGyg85iK\n6+OTLlM6Djf0R2VRJWer1VM6IWi+HAhilkrBPt0ByBlVdjSiuMZY//rfDyhQxnrI\nmgtvE+7PCxqgOSchrQnJv3Vcm7hUEUMqT7DM+ha6rhoTJ22n1Y53s1sZSrqWWf9C\nvJkcjdX9JskvKWtHfo2eopgnTa74Z1EaYvG7FFNBfeZGt8/m6gYnnFQ59KIuQPsY\njvE+dt/aPHtiY86h5E5Rn/53+CuVQCSxOvAfrGNsK0HspYNirSBTjsmeMdNlNrim\nwdIQs7Ee/U17DvmGMb71jH/fpc0gAmoP0fHGw9rCDQKBgQD+LY7ps5LGgWZ64Pmq\nuKX/7RYWgCU2p230c/sRRCc9AggV4NIX2eD3fd8j72fk91aKJuPf0K67lRwx4fFF\nNWhTxHmAOvElLFAyZLbBbrNyMn1AoOTRPBmaR0z2MGSfYia6WXVCVhNJAWcEGEqT\nXHuyJyQyhazEt3NSwC3RFSv5dwKBgQDg1LG/d4bIYbm/v7o2dTs0TN9EaVXtfAhd\n5at+aL0Y2plPMwKUfLYqzci4Q9sbl90jwhVL0K9R5k15puqRJBS2IbPzfuyhw9k9\nHGA/UsHD7a+itTsAAYM9EU7gNtf4gyz7uklsjSo08dskm4EV/WbqD6R3taUxctY2\npxX7BHJ0fwKBgQCoV2oYlCs4t4k1Bv20OTkQKGkBm/uJmBg11/7Hr7jBKjBKtSzQ\nSSg7Ii2AclYACmRReXJg0Kh5akdTLk6KRNYE7NJ/wAnoUdIHnjaAJB5LGu9jt2v0\nu/ZE/MYXI3PxL6NwtkD4H2QEbR5aUvBJau4tzsilgW0smEeT3d46ZOhL/wKBgBhy\nSBl/j6I+LgpReJfvS062hRhVM8is0eQT0v/dt6H6Mu1PqJoorU4eLhMLHcn0S1FW\nCybBPC71kbsGkT7S44WiSITTajt0pixk53o7L2J0d8KDXjTz9ScwuJjcncMh0ERW\nzyEEgHBdU+y5E+ImOYh9xu5VS+8Cg5RRuqweoatVAoGBAMWwleOLlJKLAOMWFgUU\n9STi2jIqFRG6/kpDpjx/8PsdVuri7izomUVEwsLQe7JTNUX4vqSPuzp89xXrMAJN\nINX1W2b8+73sm4EZncmMmH1UniEgeC0Lmni0dMjaMyiswGqE+sTysl2j8iL5vKqG\nUhdWPhvG+fJINBKO9yK6J/id\n-----END PRIVATE KEY-----\n",
+  "client_email": "kim-747@kanjigame.iam.gserviceaccount.com",
+  "client_id": "100091951682541607986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kim-747%40kanjigame.iam.gserviceaccount.com"
+}
